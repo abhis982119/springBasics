@@ -1,0 +1,5 @@
+com/model/Animal.class
+com/model/Dog.class
+com/model/Trainer.class
+com/controller/PingController.class
+com/urlshortner/UrlshortnerApplication.class
